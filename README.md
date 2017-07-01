@@ -1,2 +1,7 @@
 # hello-world
-just an another repository
+
+hi people!
+
+
+my name is john and i love git hub.
+this is fun
